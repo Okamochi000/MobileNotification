@@ -9,4 +9,5 @@ ios
 
 https://user-images.githubusercontent.com/49199105/172045821-2a57f8ec-063a-4677-8e43-557f519eb32c.mov
 
-MobileNotificationsパッケージのサンプルプロジェクトです。
+MobileNotificationsパッケージのサンプルプロジェクトです。<br>
+※ PackageManagerからMobileNotificationsパッケージをインポートしてください
